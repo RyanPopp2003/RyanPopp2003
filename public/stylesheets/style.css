@@ -1,5 +1,5 @@
 body {
-  background-color: marron;
+  background-color: maroon;
 }
 
 .page-list {
@@ -24,11 +24,6 @@ body {
 
 .page-list li a:hover {
   background-color: #111111;
-}
-
-.button {
-  background-color: black;
-  color: yellow;
 }
 
 
